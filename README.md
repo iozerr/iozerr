@@ -2,7 +2,7 @@
 
 Bilgisayar Programcılığı mezunuyum. Yazılım alanında kendimi geliştiriyorum.
 
-Öğrenmeye ve açık kaynak dünyasına katkı sunmaya istekliyim.
+Öğrenmeye ve açık kaynak dünyasına katkıda bulunmaya istekliyim.
 
 Bana ulaşmak istesen : iremozerr7@gmail.com
 <!--
