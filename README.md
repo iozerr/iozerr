@@ -1,5 +1,8 @@
-## Hi there 👋
+## Merhaba, ben İrem 👋
 
+Bilgisayar Programcılığı mezunuyum. Yazılım alanında kendimi geliştiriyorum.
+Öğrenmeye ve açık kaynak dünyasına katkı sunmaya istekliyim.
+Bana ulaşmak istesen : iremozerr7@gmail.com
 <!--
 **iozerr/iozerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
